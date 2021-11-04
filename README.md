@@ -1,2 +1,2 @@
 # Bootstrap website
-## [Deploy Link](https://nurysar97.github.io/bootstrap-webs/)
+## [Deploy Link](https://nurysar97.github.io/bootstrap-website/)
